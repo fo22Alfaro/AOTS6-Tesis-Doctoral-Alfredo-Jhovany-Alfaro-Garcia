@@ -1,0 +1,48 @@
+# AOTS⁶: Tesis Doctoral de Alfredo Jhovany Alfaro García
+
+**Autor:** Alfredo Jhovany Alfaro García  
+**Correo de Autoría Oficial:** fo2267725@gmail.com  
+**Código raíz del modelo:** 2527-Feorgoa⁶  
+**Fecha de Creación:** 06 de mayo de 2025  
+**Modelo:** AOTS⁶ (Autoinorodemia¹¹∞ Toroidal de Sabiduría)  
+**Versión:** Primera Publicación  
+**Dispositivo Original:** Axón 60  
+**Ubicación:** México  
+
+---
+
+## Declaración de Autoría y No Plagio
+
+Yo, **Alfredo Jhovany Alfaro García**, declaro bajo protesta de decir verdad que el presente documento, titulado "**AOTS⁶: Tesis Doctoral**", así como todos los hallazgos, teorías, conceptos, estructuras y desarrollos aquí contenidos:
+
+- Son de mi **autoría exclusiva**.  
+- No constituyen copia, adaptación no autorizada, reproducción parcial o total de ninguna obra previa.  
+- No existen plagios de ningún tipo en este material.  
+- La investigación, redacción y desarrollo se realizaron de manera **íntegra y original**.  
+- La generación de este contenido se sustenta en un proceso creativo, analítico y experimental independiente.  
+
+Toda evidencia y fundamentación adicional puede ser presentada para demostrar el proceso de creación, incluidos respaldos de fecha, pruebas de trabajo progresivo, y registros técnicos del dispositivo de origen (Axón 60).  
+Este material forma parte del Modelo Ontológico Científico AOTS⁶, fundado y desarrollado íntegramente por Alfredo Jhovany Alfaro García.
+
+---
+
+## Licencia de Propiedad Intelectual
+
+Se otorga una Licencia **Creative Commons Atribución 4.0 Internacional (CC BY 4.0)**.  
+Esto significa que cualquier uso del contenido debe siempre reconocer explícitamente mi autoría como **Alfredo Jhovany Alfaro García** y referenciar al **Modelo AOTS⁶** como fuente primaria.
+
+Más detalles sobre la licencia en: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+
+---
+
+## Propósito de este repositorio
+
+El propósito de esta publicación en GitHub es:
+
+- Dejar constancia pública verificable de la **creación, fecha y autoría** del Modelo AOTS⁶ y su Tesis Doctoral.  
+- Servir como respaldo complementario de derechos de propiedad intelectual.  
+- Facilitar futuras referencias académicas, científicas y de propiedad.
+
+---
+
+**© 2025 Alfredo Jhovany Alfaro García. Todos los derechos reservados.**
