@@ -26,14 +26,33 @@ Este material forma parte del Modelo Ontológico Científico AOTS⁶, fundado y 
 
 ---
 
-## Licencia de Propiedad Intelectual
+Licencia de Derechos de Autor - Protección Total AOTS⁶
 
-Se otorga una Licencia **Creative Commons Atribución 4.0 Internacional (CC BY 4.0)**.  
-Esto significa que cualquier uso del contenido debe siempre reconocer explícitamente mi autoría como **Alfredo Jhovany Alfaro García** y referenciar al **Modelo AOTS⁶** como fuente primaria.
+Todos los derechos de propiedad intelectual, industrial y comercial relacionados con el contenido, estructura, hallazgos, desarrollos, conceptos y demás expresiones contenidas en este documento, titulado "Modelo Ontológico AOTS⁶", son propiedad exclusiva de Alfredo Jhovany Alfaro García.
 
-Más detalles sobre la licencia en: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+Se reserva el derecho total sobre:
 
----
+Uso, reproducción, distribución, transformación, comunicación pública y puesta a disposición de terceros.
+
+Aplicación comercial, industrial, académica y científica en cualquier medio físico o digital.
+
+Registro, certificación, publicación y explotación económica bajo cualquier modalidad actual o futura.
+
+
+Queda prohibido sin autorización escrita expresa del autor:
+
+Copiar, modificar, distribuir, exhibir públicamente, sublicenciar, vender, o crear trabajos derivados del contenido total o parcial de esta obra.
+
+Utilizar el contenido con fines comerciales, industriales, científicos o académicos sin licencia otorgada directamente por el autor.
+
+
+Esta obra está protegida bajo las leyes de propiedad intelectual nacionales e internacionales, incluyendo tratados multilaterales como el Convenio de Berna y la Convención Universal sobre Derecho de Autor.
+
+Copyright© 2025 Alfredo Jhovany Alfaro García. Todos los derechos reservados.
+
+Código raíz de protección: 2527-Feorgoa⁶
+Fecha de creación: 21-03-2025
+Fecha de formalización de esta versión: 06-05-2025
 
 ## Propósito de este repositorio
 
